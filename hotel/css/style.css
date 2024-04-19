@@ -1,0 +1,145 @@
+body{
+    background-color: gray;
+    margin: 0;
+}
+
+main{
+    width: 900px; 
+    height: 1740px; 
+    background-color: white; 
+    margin: auto;
+}
+.header{
+    width: 900px; 
+    height: auto; 
+    margin: auto;
+    background-image: url(../images/heder.jpg);
+   
+}
+
+.nav{
+    width: 900px;
+    height: auto;
+    background-color: brown;
+    margin: auto;
+    
+}
+.nav ul{
+    margin: 0;
+}
+.nav ul li{
+    display: inline-block;
+    padding: auto 0;
+    border: gold 10px;
+}
+.nav ul li a{
+    color: black;
+    padding: 10px ;
+    text-decoration: none;
+}
+
+.slid{
+    width: 900px; 
+    height: 400px;
+    margin: auto;
+    
+   
+}
+.non{
+    width: 900px;
+    height: 300px;
+    
+    margin: auto;
+    padding: 25px 0;
+   
+}
+.wel{
+    width: 330px;
+    height: 300px ;
+   
+    float: left;
+    margin-left: 30px;
+}
+.wels{
+    width: 470px;200
+    height: 300px ;
+    background-color: blue;
+    float: left;
+    margin-left: 30px;
+}
+
+.room{
+    width: 900px; 
+    height: 300px; 
+    
+    margin: auto;
+    padding: 25px 0;
+}
+.roof{
+    width: 260px;
+    height: 300px;
+    
+    float: left;
+    margin-left: 30px;
+    
+}
+
+
+.foot{
+    width: 900px; 
+    height: 200px;
+    
+    margin:  auto;
+    padding: 25px 0;
+
+}
+.ft{
+    width: 260px;
+    height: 200px;
+    float: left;
+    margin-left: 30px;
+
+}
+.footer{
+    width: 900px;
+    height: 200px;
+    
+    margin: auto;
+}
+.down{
+    width: 900px;
+    height: 170px;
+    margin: 0;
+    
+}
+.sdown{
+    width: 900px;
+    height: auto;
+    
+}
+.lt{
+    width: 260px;
+    height: auto;
+    float: left;
+    margin-left: 30px;
+}
+
+.contact-info{
+    width: auto;
+    height: auto;
+    padding-bottom: 25px;
+}
+.contact-info h4{
+   font-size: 10px;
+}
+
+.icon{
+    width: auto;
+    height: auto;
+    margin:  auto;
+    display: table;
+   
+}
+.icone img{
+    margin-left: 25px;
+}
